@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379348251365-4tso97fnikad4171iuu9r9p71uudfs0i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379348251365-4tso97fnikad4171iuu9r9p71uudfs0i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBsTQG7I1CSquS2JKftd-I74FUhuWpsYw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379348251365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hr-1751044-ch12</string>
+	<key>PROJECT_ID</key>
+	<string>fir-lab1751044</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-lab1751044.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379348251365:ios:69dbe32295ae453faa5a0c</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-lab1751044-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
